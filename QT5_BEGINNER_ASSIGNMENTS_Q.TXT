@@ -1,0 +1,88 @@
+QT5
+
+BEGINNER
+Q1.Download and install Qt
+Questions for this assignment
+
+How much does the community version of Qt cost?
+
+Q2.Create a console application and print out "Hello World"
+Questions for this assignment
+
+What does QDebug do?
+
+Q3.Practice using comments
+Questions for this assignment
+
+Why use comments?
+Makes code easier to understand.
+
+Q4.Print out your age using a variable
+Questions for this assignment
+
+What are variables?
+Something that will change
+
+Q5.Read your age into a variable and print it out on the screen.
+Questions for this assignment
+
+Why use QDebug over cout?
+QDebug adds a lot more control
+
+Q6.Create a program that uses a for loop to print out "hello", but it has to start at 1 not 0.
+Questions for this assignment
+
+What does flow control do?
+
+Q7.Make a program that displays "hello world" a number of times....the number of times should be based on user input that you gather from a function and displaying the message should be another function.
+Questions for this assignment
+
+What are functions?
+
+Q8.Create a person class, a teacher class and a student class. Use what you have learned in this section to demonstrate how to  inherit and use flow control in the classes.
+Questions for this assignment
+
+What are classes?
+Blueprints for objects
+
+Q9.Make an application that uses scope
+Questions for this assignment
+
+Why does scope exist?
+Scope exists to limit variable naming collisions.
+
+Q10.Create a class and follow its life cycle using pointers
+Why use pointers?
+
+They offer fast access to memory
+
+Q11.Close the application using a signal
+Questions for this assignment
+
+What are signals and slots?
+Methods of communicating with objects in Qt
+
+Q12.Use qobject_cast to cast a Qt object
+
+What is casting?
+
+Converting an object to a different type
+
+Q13.Catch a division by zero
+Questions for this assignment
+
+Why do we need error handling?
+To keep programs from crashing.
+
+Q14.Make a templated function
+Questions for this assignment
+
+Why use templates?
+Code re-use
+
+
+Q15.Add user input to a QList
+Questions for this assignment
+
+Whats the base class of most Qt objects?
+QObject
